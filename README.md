@@ -14,3 +14,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
+
+SE Project Coffeeshop
+This project is about making a webpage where people can look at recipes and book a table at a coffee shop.
+Adding images of items that can be bought
